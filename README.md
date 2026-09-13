@@ -1,0 +1,2 @@
+# kitty
+my kitty conf
